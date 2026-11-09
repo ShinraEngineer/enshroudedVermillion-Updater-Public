@@ -1,0 +1,11 @@
+{
+    "version":  1,
+    "name":  1,
+    "exe":  "https://github.com/ShinraEngineer/enshroudedVermillion-Updater-Public/releases/download/v1/EnshroudedVermillionSetup.exe",
+    "asset":  "EnshroudedVermillionSetup.exe",
+    "sha256":  "4ef1664931402ab94c440dab203b32c1aaefe8b7911965134fe74f7df8d80c03",
+    "size":  192182440,
+    "minVersion":  0,
+    "mandatory":  false,
+    "notes":  "First release. Deploys scook\u0027s exact modded Enshrouded client 1:1 (ShroudForge, DualSense support, co-op auto-loot, cosmetics; server-side auto-doors run on the dedicated server), installs the resident launcher + silent tray updater, trusts the Shinra CC publisher, and locks the Steam build so updates do not overwrite the mods. Signed by Shinra CC."
+}
